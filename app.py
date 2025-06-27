@@ -6,7 +6,7 @@ import numpy as np
 import joblib
 
 # Load the model
-model = joblib.load("/content/sonar_model.pkl")
+model = joblib.load("sonar_model.pkl")
 
 st.title("🔍 Rock vs Mine Prediction Project1")
 
