@@ -1,1 +1,0 @@
-# Rock-vs-Mine-Prediction-Project1
